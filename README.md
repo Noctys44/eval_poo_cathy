@@ -2,7 +2,7 @@ Eval POO
 
 Partie affichage
 
-- Joueurs => Ok
+- Joueurs -> Ok
 - Jeux -> Ok
 - Matchs -> Manque  Nom du jeu
                     Nombre de joueurs enregistrés
