@@ -9,6 +9,7 @@ require_once('../Model/Contest.php');
 require_once('../Model/ContestManager.php');
 require_once('../Model/pdo.php');
 
+
 $playerManager  = new PlayerManager($pdo);
 $allPlayers = $playerManager->getAllPlayers();
 
